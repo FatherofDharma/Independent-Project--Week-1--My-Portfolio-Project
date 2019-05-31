@@ -6,3 +6,11 @@ p {
   font-size: 20;
   font-family: cursive;
 }
+
+.my-list {
+  margin: 10px;
+  border: 4px black;
+  padding: 4px;
+  background-color: #19468e;
+  color: white
+}
