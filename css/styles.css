@@ -8,9 +8,9 @@ p {
 }
 
 .my-list {
-  margin: 10px;
-  border: 10px black;
+  margin: 4px;
+  border: 10px solid black;
   padding: 4px;
   background-color: #19468e;
-  color: white
+  color: white;
 }
