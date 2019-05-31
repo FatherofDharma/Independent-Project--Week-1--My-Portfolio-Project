@@ -1,5 +1,9 @@
 body {
   font-family: sans-serif;
+  background-color: #cadbf7;
+  border-style: ridge;
+  border-color: black;
+  padding: 10px;
 }
 
 p {
@@ -22,5 +26,6 @@ p {
   color: white;
   background-image: url("../img/pool_table.jpg");
   background-size: 100%;
-  background-position: auto;
+  background-position: top;
+  background-repeat: no-repeat;
 }
