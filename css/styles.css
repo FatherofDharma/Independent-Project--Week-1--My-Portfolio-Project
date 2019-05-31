@@ -57,6 +57,9 @@ img {
 }
 
 .my_projects {
+  margin: 4px;
+  border: 10px solid #747475;
+  padding: 4px;
   background-color: #19468e;
   color: white;
 }
