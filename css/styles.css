@@ -19,6 +19,8 @@ p {
   margin: 4px;
   border: 10px solid black;
   padding: 4px;
+  color: white;
   background-image: url("../img/pool_table.jpg");
-  background-size: auto;
+  background-size: 100%;
+  background-position: auto;
 }
