@@ -16,7 +16,7 @@ p {
 
 .my-list {
   margin: 4px;
-  border: 10px solid black;
+  border: 10px solid #747475;
   padding: 4px;
   background-color: #19468e;
   color: white;
@@ -24,7 +24,7 @@ p {
 
 .my-interests {
   margin: 4px;
-  border: 10px solid black;
+  border: 10px solid #747475;
   padding: 4px;
   color: white;
   background-image: url("../img/pool_table.jpg");
