@@ -14,6 +14,11 @@ p {
   font-family: cursive;
 }
 
+.emphasize {
+  color: red;
+  font-family: georgia;
+}
+
 .my-list {
   margin: 4px;
   border: 10px solid #747475;
