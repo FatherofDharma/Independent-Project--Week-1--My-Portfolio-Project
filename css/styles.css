@@ -8,6 +8,8 @@ body {
 
 h1 {
   text-align: center;
+  font-family: georgia;
+  color: #10106b;
 }
 
 img.main {
@@ -33,7 +35,7 @@ img {
   margin: 4px;
   border: 10px solid #747475;
   padding: 4px;
-  background-color: #19468e;
+  background-color: #10106b;
   color: white;
 }
 
@@ -41,7 +43,10 @@ img {
   margin: 4px;
   border: 10px solid #747475;
   padding: 4px;
-  background-color: #19468e;
+  background-image: url("../img/dan_japan.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
 }
 
@@ -60,6 +65,9 @@ img {
   margin: 4px;
   border: 10px solid #747475;
   padding: 4px;
-  background-color: #19468e;
+  background-image: url("../img/maui_sunset.jpg");
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
   color: white;
 }
