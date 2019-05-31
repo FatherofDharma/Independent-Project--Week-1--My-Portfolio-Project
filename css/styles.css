@@ -5,6 +5,12 @@ body {
   border-color: black;
   padding: 10px;
 }
+
+img.main {
+  float: none;
+}
+
+
 img {
   padding: 1px;
   border:2px solid #7d60f2;
@@ -17,6 +23,14 @@ p {
 .emphasize {
   color: red;
   font-family: georgia;
+}
+
+.about_me {
+  margin: 4px;
+  border: 10px solid #747475;
+  padding: 4px;
+  background-color: #19468e;
+  color: white;
 }
 
 .my-list {
