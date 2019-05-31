@@ -6,8 +6,12 @@ body {
   padding: 10px;
 }
 
+h1 {
+  text-align: center;
+}
+
 img.main {
-  float: none;
+  float: top;
 }
 
 img {
@@ -15,7 +19,7 @@ img {
   border:2px solid #7d60f2;
 }
 
-p {
+.quote {
   font-size: 20;
   font-family: cursive;
 }
@@ -53,9 +57,6 @@ p {
 }
 
 .my_projects {
-  margin: 4px;
-  border: 10px solid #747475;
-  padding: 4px;
   background-color: #19468e;
   color: white;
 }
