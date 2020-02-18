@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is my first independent project at Epicodus. It is an initial homepage for my working portfolio. If you would like to see a working version, it can be found here: https://fatherofdharma.github.io/My_Portfolio_Project/_
+_This is my first independent project at Epicodus. It is an initial homepage for my working portfolio. If you would like to see a working version, it can be found here: https://fatherofdharma.github.io/Independent-Project--Week-1--My-Portfolio-Project/
 
 ## Setup/Installation Requirements
 
